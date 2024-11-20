@@ -1,0 +1,19 @@
+<libraries>
+  <library
+      name="D:\mygames\Dosyalar\Ultra Racing\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+      jars="D:\mygames\Dosyalar\Ultra Racing\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\9234032e3aeddb26fbaeac65bbb6211d\transformed\out\jars\classes.jar;D:\mygames\Dosyalar\Ultra Racing\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\9234032e3aeddb26fbaeac65bbb6211d\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="D:\mygames\Dosyalar\Ultra Racing\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\9234032e3aeddb26fbaeac65bbb6211d\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:D:\mygames\Dosyalar\Ultra Racing\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="D:\mygames\Dosyalar\Ultra Racing\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:D:\mygames\Dosyalar\Ultra Racing\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+</libraries>
